@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Dashboard (Power BI)
+# 📊 **AdventureWorks Sales Dashboard (Power BI)**
 
 This project presents a professional Power BI dashboard developed using the **AdventureWorks** dataset. It provides a deep dive into sales performance, customer demographics, and product trends through interactive visuals.
 
@@ -22,7 +22,7 @@ To analyze AdventureWorks’ sales data and uncover business insights using dyna
 
 - 📍 **Sales by Region** – Compare total revenue across different geographic areas  
 - 🛒 **Top-Selling Products** – Visualize top products by revenue and quantity  
-- 🧑‍🤝‍🧑 **Customer Demographics** – Segment analysis by age, gender, location  
+- 🧑‍🤝‍🧑 **Customer Demographics** – Analyze customer segments by income level, occupation, and geography  
 - 🕒 **Time Trends** – Monthly and yearly performance breakdown  
 - 📌 **KPI Cards** – Track total revenue, profit margins, and sales growth  
 - 🎛️ **Slicers** – Dynamic filters for product category, region, year, etc.
@@ -55,7 +55,7 @@ To analyze AdventureWorks’ sales data and uncover business insights using dyna
 
 ## 📂 File
 
-- `AdventureWorks_Farid.pbix` — Open with Power BI Desktop
+- [`AdventureWorks_Farid.pbix`](AdventureWorks_Farid.pbix) — Open with Power BI Desktop
 
 ---
 
@@ -64,7 +64,7 @@ To analyze AdventureWorks’ sales data and uncover business insights using dyna
 **Farid Pashazadeh**  
 📧 [faridpashap@gmail.com](mailto:faridpashap@gmail.com)  
 🌍 Based in Warsaw, Poland  
-🔗 [[LinkedIn Profile](https://www.linkedin.com/in/farid-pasha/)](#) (Add your real link)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/farid-pasha/)
 
 ---
 
