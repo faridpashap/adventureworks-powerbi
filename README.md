@@ -29,13 +29,27 @@ To analyze AdventureWorks’ sales data and uncover business insights using dyna
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-> _Here are some snapshots from the dashboard:_
+### Data Model  
+![Data Model](screenshots/Model_view.png)
 
-| Dashboard Overview | Sales by Region | Top Products |
-|--------------------|-----------------|--------------|
-| ![Overview](screenshots/dashboard-overview.png) | ![Region](screenshots/sales-by-region.png) | ![Products](screenshots/top-products.png) |
+### Customer Insights  
+![Customer Dashboard](screenshots/Customer_detail.png)
+
+### Product Insights  
+![Product Performance](screenshots/Product_detail.png)
+
+### Map Visualization  
+![Global Map](screenshots/Map.png)
+
+### Executive Summary  
+![Executive Dashboard](screenshots/Ecex_Dashboard.png)
+
+### DAX Examples  
+![Measure Table](screenshots/Measure_table.png)  
+![Total Cost Measure](screenshots/Total_cost_measure.png)
+
 
 ---
 
