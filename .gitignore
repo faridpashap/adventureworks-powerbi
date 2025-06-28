@@ -1,0 +1,17 @@
+# Ignore Windows thumbnail/cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore temporary Office files
+~$*
+
+# Ignore Power BI autosave files
+*.pbix.autosave
+
+# Ignore logs or system files
+*.log
+
+# VSCode or JetBrains IDE folders (if you use them)
+.vscode/
+.idea/
